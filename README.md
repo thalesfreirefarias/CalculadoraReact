@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="calculadora.png" alt="Exemplo imagem">
+<img src="calculador.png" alt="Exemplo imagem">
 
 > I developed a website showcasing autistic football fan communities, employing skills such as Flex Containers, Flex Items, and Flex Direction to create a dynamic and visually appealing platform for this inclusive project
 
