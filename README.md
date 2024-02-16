@@ -23,8 +23,6 @@ The following tools were used in the construction of the project:
 - [CSS](<https://developer.mozilla.org/pt-BR/docs/Web/CSS/>)
 - [React](<https://react.dev/>)
 
-Direct Website: [here](</>)
-
 
 ## 🤝 Creator
 
